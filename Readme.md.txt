@@ -1,0 +1,1 @@
+Rozwiązanie wykonane przeze mnie to jedynie pliki wewnątrz folderu solution. Pozostałe były częścią gotowego szablonu, dostarczonego przez koordynatorów przedmiotu. Treść zadania oraz szablon można znaleźć na stronie: https://www.mimuw.edu.pl/~iwanicki/courses/cp/2023/
